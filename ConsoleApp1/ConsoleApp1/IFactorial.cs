@@ -2,6 +2,6 @@
 {
     public interface IFactorial
     {
-        int CountFactorial(int number);
+        long CountFactorial(int number);
     }
 }
